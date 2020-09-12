@@ -19,3 +19,6 @@ doctest = false
 [features]
 default = ["enable"]
 enable = []
+
+[build-dependencies]
+cmake = "0.1"
